@@ -39,7 +39,7 @@ You are provided with the following datasets in the [data](data) folder:
    - Merge the datasets using `Field` and `Trt` as keys.
    - Handle missing values:
      - For continuous variables, use interpolation or imputation.
-	 - For categorical variables, use the most frequent category.
+     - For categorical variables, use the most frequent category.
    - Normalize continuous variables (e.g., temperature, rainfall) to account for variability across fields.
 2. **Exploratory Data Analysis (EDA)**
    - Perform an EDA to identify patterns in the data:
@@ -76,7 +76,7 @@ You are provided with the following datasets in the [data](data) folder:
      - **Feature Importance Chart**: Highlight key drivers of yield variability from machine learning models.
      - **Residual Plot**: For the hierarchical regression model.
 
-### Deliverables
+## Deliverables
 Your deliverables should be delivered as a private Github repository shared with the Github user @chbiotech.
 
 1. **Processed Data**
@@ -92,12 +92,14 @@ Your deliverables should be delivered as a private Github repository shared with
 5. **Presentation**
    - A PDF or PowerPoint summarizing key insights and recommendations.
 6. **README.md**
-   - A README file introducing your project.
+   - A README file introducing your project, each of the aforementioned deliverables, and any special instructions that are needed to run your solution.
 
-### Evaluation Criteria
+During your interview, you may be asked to demonstrate parts of your solution. For this purpose, we recommend bringing your notebook computer to your interview and ensuring that your solution runs on it.
+
+## Evaluation Criteria
 1. **Data Processing**: Accuracy in handling missing data and normalization.
 2. **EDA Quality**: Depth of insights and clarity of visualizations.
 3. **Modeling Expertise**: Proper application of multilevel regression and predictive modeling.
 4. **Interpretation**: Ability to derive actionable insights and provide meaningful recommendations.
 5. **Code Quality**: Clean, modular, and well-documented code that follows standard best practices.
-6. **Defense**: Ability to defend your project when challenged during the interview, and ability to explain your project and results to an audience who doesn't have a background in data science
+6. **Defense**: Ability to defend your project when challenged during the interview, and ability to explain your project and results to an audience who doesn't have a background in data science.
